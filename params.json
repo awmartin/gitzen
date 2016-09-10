@@ -1,0 +1,6 @@
+{
+  "name": "Gitzen",
+  "tagline": "A better way to use and grok git.",
+  "body": "Git is a necessary tool for today's developers, but it's often touted as frustrating to grok and use. This stems from a couple of facts:\r\n\r\n1. Git's commands don't mimic what you want to do (e.g. \"Change my commit message\" is `git commit --amend`).\r\n2. Git's conceptual model doesn't mirror typically what you want to do.\r\n\r\ngitzen is a set of workflows, scripts, and explanations to help you understand what's going on with git, gain control of your repository, work more efficiently, and get things done confidently.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
